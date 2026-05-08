@@ -1,0 +1,11 @@
+{
+  "product": "blender-onboarding-preset-manager",
+  "title": "導入・プリセット管理",
+  "domain": "BlenderAddon",
+  "ideaNo": 2,
+  "platformType": "blender-addon",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
