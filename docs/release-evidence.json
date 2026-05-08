@@ -51,11 +51,9 @@
   "git": {
     "ahead": 0,
     "behind": 0,
-    "status": "M dist/blender-onboarding-preset-manager-docs.zip",
-    "localCodex": [
-      "codex/closed-alpha-release"
-    ],
+    "status": "",
+    "localCodex": [],
     "remoteCodex": [],
-    "clean": false
+    "clean": true
   }
 }
